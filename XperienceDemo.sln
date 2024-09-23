@@ -5,6 +5,13 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncomingWebhooks", "IncomingWebhooks\IncomingWebhooks.csproj", "{F671E255-D666-4190-9A0D-266C375EB2A1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab Guides", "Lab Guides", "{C2E34BD8-BD0A-45DD-968F-1021EA18F557}"
+	ProjectSection(SolutionItems) = preProject
+		Lab Guides\Incoming Webhook Lab Guide.pdf = Lab Guides\Incoming Webhook Lab Guide.pdf
+		Lab Guides\Outgoing Webhooks-Lab Guide.pdf = Lab Guides\Outgoing Webhooks-Lab Guide.pdf
+		Lab Guides\Xperience Cloud Storage Hand on.pdf = Lab Guides\Xperience Cloud Storage Hand on.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

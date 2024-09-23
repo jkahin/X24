@@ -73,9 +73,6 @@
   <ItemGroup>
     <Content Include="Javascript\GoogleFormJavaScript.js" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="Lab Document\Incoming Webhook Lab Guide.pdf" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>xcopy $(TargetDir)$(TargetName).* $(SolutionDir)..\..\iweb\bin\ /y
