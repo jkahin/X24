@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab Guides", "Lab Guides", "{C2E34BD8-BD0A-45DD-968F-1021EA18F557}"
 	ProjectSection(SolutionItems) = preProject
 		Lab Guides\Incoming Webhook Lab Guide.pdf = Lab Guides\Incoming Webhook Lab Guide.pdf
+		..\..\..\..\..\Abila\Experience 2024\NetForum Sessions\NetForum Developer Day sessions\NetForum Form Extensions Lab Guide.pdf = ..\..\..\..\..\Abila\Experience 2024\NetForum Sessions\NetForum Developer Day sessions\NetForum Form Extensions Lab Guide.pdf
 		Lab Guides\Outgoing Webhooks-Lab Guide.pdf = Lab Guides\Outgoing Webhooks-Lab Guide.pdf
 		Lab Guides\Xperience Cloud Storage Hand on.pdf = Lab Guides\Xperience Cloud Storage Hand on.pdf
 	EndProjectSection
