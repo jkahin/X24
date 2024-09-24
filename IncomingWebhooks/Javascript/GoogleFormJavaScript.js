@@ -2,7 +2,7 @@
 PropertiesService.getScriptProperties();
 
 var TOKEN_URL = "https://train06.netforument.com/nftstrain2017/xWeb/JSON/Authenticate";
-var POST_URL = "https://train06.netforument.com/nftstrain2017/xWeb/webhook/IncomingWebhookSamplex";
+var POST_URL = "https://train06.netforument.com/nftstrain2017/xWeb/webhook/IncomingWebhookSample";
 
 function getxWebToken() {
     var authPayload = {
